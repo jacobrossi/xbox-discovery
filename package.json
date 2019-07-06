@@ -1,0 +1,22 @@
+{
+  "name": "xbox-discovery",
+  "version": "1.0.0",
+  "description": "Discovers if an xbox console is on",
+  "main": "discovery.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobrossi/xbox-discovery.git"
+  },
+  "keywords": [
+    "xbox"
+  ],
+  "author": "Jacob Rossi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacobrossi/xbox-discovery/issues"
+  },
+  "homepage": "https://github.com/jacobrossi/xbox-discovery#readme"
+}
