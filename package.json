@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/jacobrossi/xbox-discovery/issues"
   },
-  "homepage": "https://github.com/jacobrossi/xbox-discovery#readme"
+  "homepage": "https://github.com/jacobrossi/xbox-discovery#readme",
+  "dependencies": {
+    "xbox-smartglass-core-node": "^0.6.0"
+  }
 }
